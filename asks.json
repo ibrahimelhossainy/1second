@@ -2,7 +2,7 @@
   "units": [
     {
       "id": "unit1",
-      "unitName": "الوحدة الأولى: الحضارة المصرية",
+      "unitName": "الوحدة 1 جغرافيا",
       "icon": "icons/unit1.png",
       "questions": [
         {
@@ -65,7 +65,7 @@
     },
     {
       "id": "unit2",
-      "unitName": "الوحدة الثانية: الحضارة اليونانية",
+      "unitName": "الوحدة 2 تاريخ",
       "icon": "icons/unit2.png",
       
       "questions": [
@@ -1943,7 +1943,7 @@
     },
     {
       "id": "unit3",
-      "unitName": "الوحدة الثالثة: الحضارة الرومانية",
+      "unitName": "الوحدة 3 جغرافيا",
       "icon": "icons/unit3.png",
       
       "questions": [
@@ -3988,7 +3988,7 @@
     },
     {
       "id": "unit4",
-      "unitName": "الوحدة الرابعة: الحضارة الإسلامية",
+      "unitName": "الوحدة 4 تاريخ",
       "icon": "icons/unit4.png",
             "questions": [
         {
