@@ -6892,6 +6892,493 @@
                     "points": 10
                 }
             ]
+        },
+        {
+            "id": "unit5",
+            "unitName": "خرائط المنهج",
+            "icon": "icons/unit1.png",
+            "questions": [
+                {
+                    "questionText": "يشير الرقم 1 إلى:",
+                    "options": [
+                        "خط الاستواء",
+                        "مدار السرطان",
+                        "مدار الجدي",
+                        "خط جرينتش"
+                    ],
+                    "correctAnswer": "خط الاستواء",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 2 إلى:",
+                    "options": [
+                        "خط الاستواء",
+                        "مدار السرطان",
+                        "مدار الجدي",
+                        "خط جرينتش"
+                    ],
+                    "correctAnswer": "مدار الجدي",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 3 إلى:",
+                    "options": [
+                        "خط الاستواء",
+                        "مدار السرطان",
+                        "مدار الجدي",
+                        "خط جرينتش"
+                    ],
+                    "correctAnswer": "مدار السرطان",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 4 إلى:",
+                    "options": [
+                        "خط الاستواء",
+                        "مدار السرطان",
+                        "مدار الجدي",
+                        "خط جرينتش"
+                    ],
+                    "correctAnswer": "خط جرينتش",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 5 إلى المحيط:",
+                    "options": [
+                        "الهادي",
+                        "الأطلنطي",
+                        "الهندي",
+                        "المتجمد الشمالي"
+                    ],
+                    "correctAnswer": "الأطلنطي",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 6 إلى خليج:",
+                    "options": [
+                        "غينيا",
+                        "موزامبيق",
+                        "الهندي",
+                        "عدن"
+                    ],
+                    "correctAnswer": "غينيا",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 7 إلى المحيط:",
+                    "options": [
+                        "الهادي",
+                        "الأطلنطي",
+                        "الهندي",
+                        "المتجمد الشمالي"
+                    ],
+                    "correctAnswer": "الهندي",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 8 إلى البحر:",
+                    "options": [
+                        "الأحمر",
+                        "المتوسط",
+                        "العربي",
+                        "الأسود"
+                    ],
+                    "correctAnswer": "المتوسط",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 9 إلى البحر:",
+                    "options": [
+                        "المتوسط",
+                        "العربي",
+                        "الأسود",
+                        "الأحمر"
+                    ],
+                    "correctAnswer": "الأحمر",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 10 إلى مضيق:",
+                    "options": [
+                        "موزامبيق",
+                        "باب المندب",
+                        "جبل طارق",
+                        "هرمز"
+                    ],
+                    "correctAnswer": "موزامبيق",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 11 إلى خليج:",
+                    "options": [
+                        "غينيا",
+                        "موزامبيق",
+                        "الهندي",
+                        "عدن"
+                    ],
+                    "correctAnswer": "عدن",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 12 إلى قمة:",
+                    "options": [
+                        "الكاب",
+                        "توبقال",
+                        "كينيا",
+                        "شايب البنات"
+                    ],
+                    "correctAnswer": "كينيا",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 13 إلى قمة:",
+                    "options": [
+                        "دراكنزبرج",
+                        "توبقال",
+                        "كلمنجارو",
+                        "شايب البنات"
+                    ],
+                    "correctAnswer": "كلمنجارو",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 14 إلى قمة:",
+                    "options": [
+                        "الكاب",
+                        "توبقال",
+                        "كلمنجارو",
+                        "شايب البنات"
+                    ],
+                    "correctAnswer": "توبقال",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 15 إلى قمة:",
+                    "options": [
+                        "الكاب",
+                        "توبقال",
+                        "كلمنجارو",
+                        "دراكنزبرج"
+                    ],
+                    "correctAnswer": "الكاب",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 16 إلى قمة:",
+                    "options": [
+                        "أطلس",
+                        "توبقال",
+                        "كلمنجارو",
+                        "دراكنزبرج"
+                    ],
+                    "correctAnswer": "دراكنزبرج",
+                    "points": 10,
+                    "imageUrl": "all.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 1 إلى :",
+                    "options": [
+                        "الغابات المدارية المطيرة",
+                        "غابات البحر المتوسط",
+                        "الإقليم الصحراوي",
+                        "حشائش الإستيس"
+                    ],
+                    "correctAnswer": "الغابات المدارية المطيرة",
+                    "points": 10,
+                    "imageUrl": "nutral.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 2 إلى :",
+                    "options": [
+                        "الغابات المدارية المطيرة",
+                        "غابات البحر المتوسط",
+                        "الإقليم الصحراوي",
+                        "حشائش الإستيس"
+                    ],
+                    "correctAnswer": "غابات البحر المتوسط",
+                    "points": 10,
+                    "imageUrl": "nutral.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 3 إلى :",
+                    "options": [
+                        "الغابات المدارية المطيرة",
+                        "غابات البحر المتوسط",
+                        "الإقليم الصحراوي",
+                        "حشائش الإستيس"
+                    ],
+                    "correctAnswer": "غابات البحر المتوسط",
+                    "points": 10,
+                    "imageUrl": "nutral.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 4 إلى :",
+                    "options": [
+                        "الغابات المدارية المطيرة",
+                        "غابات البحر المتوسط",
+                        "الإقليم الصحراوي",
+                        "حشائش الإستيس"
+                    ],
+                    "correctAnswer": "الغابات المدارية المطيرة",
+                    "points": 10,
+                    "imageUrl": "nutral.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 5 إلى :",
+                    "options": [
+                        "الغابات المدارية المطيرة",
+                        "غابات البحر المتوسط",
+                        "الإقليم الصحراوي",
+                        "حشائش الإستيس"
+                    ],
+                    "correctAnswer": "الغابات المدارية المطيرة",
+                    "points": 10,
+                    "imageUrl": "nutral.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 6 إلى :",
+                    "options": [
+                        "الغابات المدارية المطيرة",
+                        "غابات البحر المتوسط",
+                        "الإقليم الصحراوي",
+                        "حشائش الإستيس"
+                    ],
+                    "correctAnswer": "الغابات المدارية المطيرة",
+                    "points": 10,
+                    "imageUrl": "nutral.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 7 إلى :",
+                    "options": [
+                        "حشائش السفانا",
+                        "غابات البحر المتوسط",
+                        "الإقليم الصحراوي",
+                        "حشائش الإستيس"
+                    ],
+                    "correctAnswer": "حشائش السفانا",
+                    "points": 10,
+                    "imageUrl": "nutral.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 8 إلى :",
+                    "options": [
+                        "حشائش السفانا",
+                        "غابات البحر المتوسط",
+                        "الإقليم الصحراوي",
+                        "حشائش الإستيس"
+                    ],
+                    "correctAnswer": "حشائش الإستيس",
+                    "points": 10,
+                    "imageUrl": "nutral.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 9 إلى :",
+                    "options": [
+                        "صحراء كلهاري",
+                        "صحراء شمال افريقيا",
+                        "الصحراء الكبرى",
+                        "اقبيم فيلد"
+                    ],
+                    "correctAnswer": "حشائش الإستيس",
+                    "points": 10,
+                    "imageUrl": "nutral.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 10 إلى :",
+                    "options": [
+                        "صحراء كلهاري",
+                        "صحراء ناميبيا",
+                        "الصحراء الكبرى",
+                        "اقبيم فيلد"
+                    ],
+                    "correctAnswer": "الصحراء الكبرى",
+                    "points": 10,
+                    "imageUrl": "nutral.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 1 إلى مضيق ...",
+                    "options": [
+                        "باب المندب",
+                        "موزمبيق",
+                        "جبل طارق",
+                        "هرمز"
+                    ],
+                    "correctAnswer": "باب المندب",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 2 إلى مضيق ...",
+                    "options": [
+                        "باب المندب",
+                        "موزمبيق",
+                        "جبل طارق",
+                        "هرمز"
+                    ],
+                    "correctAnswer": "جبل طارق",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 3 إلى مضيق ...",
+                    "options": [
+                        "باب المندب",
+                        "موزمبيق",
+                        "جبل طارق",
+                        "هرمز"
+                    ],
+                    "correctAnswer": "موزمبيق",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 4 إلى بحيرة ...",
+                    "options": [
+                        "تانا",
+                        "فيكتوريا",
+                        "تنجانيقا",
+                        "ناصر"
+                    ],
+                    "correctAnswer": "فيكتوريا",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 5 إلى خليج ...",
+                    "options": [
+                        "غينيا",
+                        "عدن",
+                        "جنوب إفريقيا",
+                        "السويس"
+                    ],
+                    "correctAnswer": "غينيا",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 6 إلى جبال ...",
+                    "options": [
+                        "جبال الكاب",
+                        "جبال البحر الأحمر",
+                        "جبال أطلس",
+                        "جبال دراكنزبرغ"
+                    ],
+                    "correctAnswer": "جبال أطلس",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 7 إلى جبال ...",
+                    "options": [
+                        "جبال الكاب",
+                        "جبال البحر الأحمر",
+                        "جبال أطلس",
+                        "جبال دراكنزبرغ"
+                    ],
+                    "correctAnswer": "جبال البحر الأحمر",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 8 إلى جبل ...",
+                    "options": [
+                        "جبال الكاب",
+                        "جبال البحر الأحمر",
+                        "جبال أطلس",
+                        "جبال دراكنزبرغ"
+                    ],
+                    "correctAnswer": "شمال أفريقيا",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 9 إلى جبال ...",
+                    "options": [
+                        "شمال أفريقيا",
+                        "الحبشة",
+                        "الغابات الاستوائية",
+                        "جنوب إفريقيا"
+                    ],
+                    "correctAnswer": "شمال أفريقيا",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 10 إلى جبال ...",
+                    "options": [
+                        "شمال أفريقيا",
+                        "الحبشة",
+                        "الغابات الاستوائية",
+                        "جنوب إفريقيا"
+                    ],
+                    "correctAnswer": "الحبشة",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 11 إلى جبال ...",
+                    "options": [
+                        "شمال أفريقيا",
+                        "الحبشة",
+                        "الغابات الاستوائية",
+                        "جنوب إفريقيا"
+                    ],
+                    "correctAnswer": "جنوب إفريقيا",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 12 إلى جبال ...",
+                    "options": [
+                        "جبال الكاب",
+                        "جبال البحر الأحمر",
+                        "جبال أطلس",
+                        "جبال دراكنزبرغ"
+                    ],
+                    "correctAnswer": "جبال لكاب",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 13 إلى جبل ...",
+                    "options": [
+                        "جبال الكاب",
+                        "جبال البحر الأحمر",
+                        "جبل توبقال",
+                        "جبال دراكنزبرغ"
+                    ],
+                    "correctAnswer": "جبل توبقال",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                },
+                {
+                    "questionText": "يشير الرقم 14 إلى بحيرة ...",
+                    "options": [
+                        "تانا",
+                        "فيكتوريا",
+                        "تنجانيقا",
+                        "ناصر"
+                    ],
+                    "correctAnswer": "تنجانيقا",
+                    "points": 10,
+                    "imageUrl": "mount.jpg"
+                }
+            ]
         }
     ]
 }
