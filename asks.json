@@ -6896,7 +6896,7 @@
         {
             "id": "unit5",
             "unitName": "خرائط المنهج",
-            "icon": "icons/unit1.png",
+            "icon": "icons/unit5.png",
             "questions": [
                 {
                     "questionText": "يشير الرقم 1 إلى:",
