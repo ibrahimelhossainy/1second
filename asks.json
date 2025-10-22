@@ -6908,7 +6908,7 @@
                     ],
                     "correctAnswer": "خط الاستواء",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 2 إلى:",
@@ -6920,7 +6920,7 @@
                     ],
                     "correctAnswer": "مدار الجدي",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 3 إلى:",
@@ -6932,7 +6932,7 @@
                     ],
                     "correctAnswer": "مدار السرطان",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 4 إلى:",
@@ -6944,7 +6944,7 @@
                     ],
                     "correctAnswer": "خط جرينتش",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 5 إلى المحيط:",
@@ -6956,7 +6956,7 @@
                     ],
                     "correctAnswer": "الأطلنطي",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 6 إلى خليج:",
@@ -6968,7 +6968,7 @@
                     ],
                     "correctAnswer": "غينيا",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 7 إلى المحيط:",
@@ -6980,7 +6980,7 @@
                     ],
                     "correctAnswer": "الهندي",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 8 إلى البحر:",
@@ -6992,7 +6992,7 @@
                     ],
                     "correctAnswer": "المتوسط",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 9 إلى البحر:",
@@ -7004,7 +7004,7 @@
                     ],
                     "correctAnswer": "الأحمر",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 10 إلى مضيق:",
@@ -7016,7 +7016,7 @@
                     ],
                     "correctAnswer": "موزامبيق",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 11 إلى خليج:",
@@ -7028,7 +7028,7 @@
                     ],
                     "correctAnswer": "عدن",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 12 إلى قمة:",
@@ -7040,7 +7040,7 @@
                     ],
                     "correctAnswer": "كينيا",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 13 إلى قمة:",
@@ -7052,7 +7052,7 @@
                     ],
                     "correctAnswer": "كلمنجارو",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 14 إلى قمة:",
@@ -7064,7 +7064,7 @@
                     ],
                     "correctAnswer": "توبقال",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 15 إلى قمة:",
@@ -7076,7 +7076,7 @@
                     ],
                     "correctAnswer": "الكاب",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 16 إلى قمة:",
@@ -7088,7 +7088,7 @@
                     ],
                     "correctAnswer": "دراكنزبرج",
                     "points": 10,
-                    "imageUrl": "all.jpg"
+                        "imageUrl": "imgs/all.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 1 إلى :",
@@ -7100,7 +7100,7 @@
                     ],
                     "correctAnswer": "الغابات المدارية المطيرة",
                     "points": 10,
-                    "imageUrl": "nutral.jpg"
+                        "imageUrl": "imgs/nutral.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 2 إلى :",
@@ -7112,7 +7112,7 @@
                     ],
                     "correctAnswer": "غابات البحر المتوسط",
                     "points": 10,
-                    "imageUrl": "nutral.jpg"
+                        "imageUrl": "imgs/nutral.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 3 إلى :",
@@ -7124,7 +7124,7 @@
                     ],
                     "correctAnswer": "غابات البحر المتوسط",
                     "points": 10,
-                    "imageUrl": "nutral.jpg"
+                        "imageUrl": "imgs/nutral.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 4 إلى :",
@@ -7136,7 +7136,7 @@
                     ],
                     "correctAnswer": "الغابات المدارية المطيرة",
                     "points": 10,
-                    "imageUrl": "nutral.jpg"
+                        "imageUrl": "imgs/nutral.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 5 إلى :",
@@ -7148,7 +7148,7 @@
                     ],
                     "correctAnswer": "الغابات المدارية المطيرة",
                     "points": 10,
-                    "imageUrl": "nutral.jpg"
+                        "imageUrl": "imgs/nutral.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 6 إلى :",
@@ -7160,7 +7160,7 @@
                     ],
                     "correctAnswer": "الغابات المدارية المطيرة",
                     "points": 10,
-                    "imageUrl": "nutral.jpg"
+                        "imageUrl": "imgs/nutral.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 7 إلى :",
@@ -7172,7 +7172,7 @@
                     ],
                     "correctAnswer": "حشائش السفانا",
                     "points": 10,
-                    "imageUrl": "nutral.jpg"
+                        "imageUrl": "imgs/nutral.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 8 إلى :",
@@ -7184,7 +7184,7 @@
                     ],
                     "correctAnswer": "حشائش الإستيس",
                     "points": 10,
-                    "imageUrl": "nutral.jpg"
+                        "imageUrl": "imgs/nutral.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 9 إلى :",
@@ -7196,7 +7196,7 @@
                     ],
                     "correctAnswer": "حشائش الإستيس",
                     "points": 10,
-                    "imageUrl": "nutral.jpg"
+                        "imageUrl": "imgs/nutral.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 10 إلى :",
@@ -7208,7 +7208,7 @@
                     ],
                     "correctAnswer": "الصحراء الكبرى",
                     "points": 10,
-                    "imageUrl": "nutral.jpg"
+                        "imageUrl": "imgs/nutral.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 1 إلى مضيق ...",
@@ -7220,7 +7220,7 @@
                     ],
                     "correctAnswer": "باب المندب",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 2 إلى مضيق ...",
@@ -7232,7 +7232,7 @@
                     ],
                     "correctAnswer": "جبل طارق",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 3 إلى مضيق ...",
@@ -7244,7 +7244,7 @@
                     ],
                     "correctAnswer": "موزمبيق",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 4 إلى بحيرة ...",
@@ -7256,7 +7256,7 @@
                     ],
                     "correctAnswer": "فيكتوريا",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 5 إلى خليج ...",
@@ -7268,7 +7268,7 @@
                     ],
                     "correctAnswer": "غينيا",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 6 إلى جبال ...",
@@ -7280,7 +7280,7 @@
                     ],
                     "correctAnswer": "جبال أطلس",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 7 إلى جبال ...",
@@ -7292,7 +7292,7 @@
                     ],
                     "correctAnswer": "جبال البحر الأحمر",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 8 إلى جبل ...",
@@ -7304,7 +7304,7 @@
                     ],
                     "correctAnswer": "شمال أفريقيا",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 9 إلى جبال ...",
@@ -7316,7 +7316,7 @@
                     ],
                     "correctAnswer": "شمال أفريقيا",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 10 إلى جبال ...",
@@ -7328,7 +7328,7 @@
                     ],
                     "correctAnswer": "الحبشة",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 11 إلى جبال ...",
@@ -7340,7 +7340,7 @@
                     ],
                     "correctAnswer": "جنوب إفريقيا",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 12 إلى جبال ...",
@@ -7352,7 +7352,7 @@
                     ],
                     "correctAnswer": "جبال لكاب",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 13 إلى جبل ...",
@@ -7364,7 +7364,7 @@
                     ],
                     "correctAnswer": "جبل توبقال",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 },
                 {
                     "questionText": "يشير الرقم 14 إلى بحيرة ...",
@@ -7376,7 +7376,7 @@
                     ],
                     "correctAnswer": "تنجانيقا",
                     "points": 10,
-                    "imageUrl": "mount.jpg"
+                        "imageUrl": "imgs/mount.jpg"
                 }
             ]
         }
