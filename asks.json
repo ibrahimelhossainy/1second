@@ -1,3 +1,4 @@
+
 {
     "units": [
         {
@@ -7354,6 +7355,130 @@
                     "points": 10,
                         "imageUrl": "imgs/mount.jpg"
                 },
+               {
+                    "questionText": "يشير الرقم 1 إلى نهر ...",
+                    "options": [
+                        "النيل",
+                        "النيجر",
+                        "الكونغو",
+                        "الزمبيزي"
+                    ],
+                    "correctAnswer": "النيل",
+                    "points": 10,
+                        "imageUrl": "imgs/nile.jpg"
+                },
+               {
+                    "questionText": "يشير الرقم 2 إلى نهر ...",
+                    "options": [
+                        "عطبرة",
+                        "النيل الأبيض",
+                        "النيل الأزرق",
+                        "السوباط"
+                    ],
+                    "correctAnswer": "عطبرة",
+                    "points": 10,
+                        "imageUrl": "imgs/nile.jpg"
+                },
+               {
+                    "questionText": "يشير الرقم 3 إلى نهر ...",
+                    "options": [
+                        "عطبرة",
+                        "النيل الأبيض",
+                        "النيل الأزرق",
+                        "السوباط"
+                    ],
+                    "correctAnswer": "النيل الأزرق",
+                    "points": 10,
+                        "imageUrl": "imgs/nile.jpg"
+                },
+               {
+                    "questionText": "يشير الرقم 4 إلى نهر ...",
+                    "options": [
+                        "عطبرة",
+                        "النيل الأبيض",
+                        "النيل الأزرق",
+                        "السوباط"
+                    ],
+                    "correctAnswer": "النيل الأبيض",
+                    "points": 10,
+                        "imageUrl": "imgs/nile.jpg"
+                },
+
+               {
+                    "questionText": "يشير الرقم 5 إلى بحيرة ...",
+                    "options": [
+                        "تانا",
+                        "البرت",
+                        "فيكتوريا",
+                        "تنجانيقا"
+                    ],
+                    "correctAnswer": "تانا",
+                    "points": 10,
+                        "imageUrl": "imgs/nile.jpg"
+                },
+               {
+                    "questionText": "يشير الرقم 9 إلى بحيرة ...",
+                    "options": [
+                        "تانا",
+                        "البرت",
+                        "فيكتوريا",
+                        "تنجانيقا"
+                    ],
+                    "correctAnswer": "فيكتوريا",
+                    "points": 10,
+                        "imageUrl": "imgs/nile.jpg"
+                },
+               {
+                    "questionText": "يشير الرقم 6 إلى نهر ...",
+                    "options": [
+                        "عطبرة",
+                        "النيل الأبيض",
+                        "النيل الأزرق",
+                        "السوباط"
+                    ],
+                    "correctAnswer": "السوباط",
+                    "points": 10,
+                        "imageUrl": "imgs/nile.jpg"
+                },
+
+               {
+                    "questionText": "يشير الرقم 7 إلى نهر ...",
+                    "options": [
+                        "عطبرة",
+                        "النيل الأبيض",
+                        "بحر العرب",
+                        "السوباط"
+                    ],
+                    "correctAnswer": "بحر العرب",
+                    "points": 10,
+                        "imageUrl": "imgs/nile.jpg"
+                },
+               {
+                    "questionText": "يشير الرقم 7 إلى نهر ...",
+                    "options": [
+                        "عطبرة",
+                        "بحر الجبل",
+                        "بحر العرب",
+                        "السوباط"
+                    ],
+                    "correctAnswer": "بحر الجبل",
+                    "points": 10,
+                        "imageUrl": "imgs/nile.jpg"
+                },
+               {
+                    "questionText": "يشير الرقم 7 إلى نهر ...",
+                    "options": [
+                        "كاجيرا",
+                        "بحر الجبل",
+                        "بحر العرب",
+                        "السوباط"
+                    ],
+                    "correctAnswer": "كاجيرا",
+                    "points": 10,
+                        "imageUrl": "imgs/nile.jpg"
+                },
+
+
                 {
                     "questionText": "يشير الرقم 13 إلى جبل ...",
                     "options": [
