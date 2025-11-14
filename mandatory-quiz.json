@@ -1,13 +1,13 @@
 {
   "quizId": "quiz-1",
   "isActive": true,
-  "startDate": "2025-10-02 01:50 PM",
-  "endDate": "2025-10-27 7:50 PM",
+  "startDate": "2025-11-02 01:50 PM",
+  "endDate": "2025-11-16 7:50 PM",
   "preQuizWidget": {
     "enabled": true,
     "teacherNotes": "تنبيه هام: يرجى التأكد من استقرار اتصال الإنترنت قبل بدء الاختبار. هذا الاختبار لتحديد المستوى وسيتم رصد الدرجات. بالتوفيق للجميع!"
   },
-  "quizTitle": "اختبار تحديد المستوى النهائي",
+  "quizTitle": "هذا الاختبار تجريبي، ولا يخص المنهج",
   "durationMinutes": 10,
   "questionCount": 3,
   "pointsPerCorrectAnswer": 10,
